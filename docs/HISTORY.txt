@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Added diazo theme settings for GenericSetup default profile [macagua]
+
 - Remove duplicute theme files [macagua]
 
 - Added Plone theme package structure [macagua]
