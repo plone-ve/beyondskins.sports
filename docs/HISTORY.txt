@@ -4,6 +4,8 @@ Changelog
 0.1dev (unreleased)
 -------------------
 
+- Remove duplicute theme files [macagua]
+
 - Added Plone theme package structure [macagua]
 
 - Initial release
