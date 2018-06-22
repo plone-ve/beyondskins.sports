@@ -18,7 +18,7 @@
 
   <genericsetup:registerProfile
       name="uninstall"
-      title="beyondskins.sports: Uninstall profile for Plone 4 Diazo Theme"
+      title="beyondskins.sports Uninstall"
       directory="profiles/uninstall"
       description="Uninstalls the beyondskins.sports package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
